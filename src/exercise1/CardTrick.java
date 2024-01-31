@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 /**
  * @modifier AswadArfan (2024-01-31)
+ * @modifier Aswad
  */
 public class CardTrick {
 
